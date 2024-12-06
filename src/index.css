@@ -1,0 +1,23 @@
+input{
+  width: 150px;
+  height: 40px;
+  margin-right: 20px;
+  padding: 0px 10px;
+}
+button{
+  padding: 10px;
+  height: 40px;
+}
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-self: center;
+  height: 100vh;
+}
